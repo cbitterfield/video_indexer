@@ -1,0 +1,7 @@
+filetype
+magic
+hashlib
+ffmpeg
+PyPDF2
+wand
+PIL
